@@ -1,6 +1,6 @@
 # Bull POC
 
-Simple POC to show functionality on Bull package.
+Simple POC to show functionality on [Bull package](https://github.com/OptimalBits/bull).
 
 * Prerequisites
   * `redis`
